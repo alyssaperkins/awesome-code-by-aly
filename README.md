@@ -4,6 +4,12 @@ Here you will find all labs, projects, and personal endeavors that I've created 
 # Name-A-Gator
 Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz
 
+What is Name-A-Gator (NAG)?  NAG is a GUI developed to help people learn how unique their names are.  It can be used to find the most common/unique name of a search, or compare the 'uniquity' of names you might have in mind for your future baby gators!
+
+NAG uses a U.S. Census data set that contains name statistics from 1910-2021.  It includes the number of people born with the same name each year for that state and gender.  Names can be ranked from Unique, Rare, Uncommon, Common, and Popular.  Along with each search you do, the user also gets to choose a sorting algorithm to order the returned data.  We included merge, quick, comb, and tim sorts.  The GUI will output the sorting time along with your uniquity rankings.
+
+To learn more about the development of NAG, check out this link: https://docs.google.com/document/d/1J8cjkmLgkrWPheTjTq20LT6kE2Cxtq5WtszgLYUuZB4/edit#heading=h.q2ubbw8pvaf3
+
 ## To run Name-A-Gator:
 1. Go to this link: https://drive.google.com/file/d/1emOXle0OTjGWKm53OAlUsKa-7W-jtMhy/view?usp=sharing and run Name-A-Gator.exe
 2. or download this folder in the repository: awesome-code-by-aly/NAGGui/x64/Release and run Name-A-Gator.exe
@@ -15,6 +21,6 @@ https://youtu.be/6jpk0YYYDkI
 ### Follow this directory: NAGGui/NAGGui
 - NameData.txt -> U.S. Census Data Set that we use to rank names
 - Window.h / Window.cpp -> GUI Front End
-- MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI interface code (C++/CLI)
+- MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI code (C++/CLI)
 - map.h/map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
 
