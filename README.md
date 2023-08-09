@@ -4,7 +4,7 @@ Here you will find all labs, projects, and personal endeavors that I've created 
 # Name-A-Gator
 Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz
 
-What is Name-A-Gator (NAG)?  NAG is a GUI developed to help people learn how unique their names are.  It can be used to find the most common/unique name of a search, or compare the 'uniquity' of names you might have in mind for your future baby gators! [ Uniquity % = # of occurences for searched name / all names appearing under that search ]
+What is Name-A-Gator (NAG)?  NAG is a GUI developed to help people learn how unique their names are.  It can be used to find the most common/unique name of a search, or compare the 'uniquity' of names you might have in mind for your future baby gators!
 
  [ Uniquity % = # of occurences for searched name / # of occurences of all names under your search parameters ]
 
