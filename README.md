@@ -2,7 +2,8 @@
 Here you will find all labs, projects, and personal endeavors that I've created over the years (aka look at all my awesome code).
 
 # Name-A-Gator
-Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz
+<details>
+<summary>Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz</summary>
 
 What is Name-A-Gator (NAG)?  NAG is a GUI developed to help people learn how unique their names are.  It can be used to find the most common/unique name of a search, or compare the 'uniquity' of names you might have in mind for your future baby gators!
 
@@ -26,3 +27,4 @@ https://youtu.be/6jpk0YYYDkI
 - MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI code (C++/CLI)
 - map.h / map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
 
+</details>
