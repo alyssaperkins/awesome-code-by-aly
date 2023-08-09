@@ -18,7 +18,7 @@ To learn more about NAG, check out this PDF: [Name-A-Gator Documentation](https:
 
 ### To run Name-A-Gator:
 1. Go to this link and download the folder: [NAG Download Zip File](https://drive.google.com/file/d/1emOXle0OTjGWKm53OAlUsKa-7W-jtMhy/view?usp=sharing) and run Name-A-Gator.exe
-2. or download this folder in the repository: [awesome-code-by-aly/NAGGui/x64/Release](https://github.com/alyssaperkins/awesome-code-by-aly/tree/c27d3f9e642aa237c00a7e776ec8158c664359a9/NAGGui/x64/Release) and run Name-A-Gator.exe
+2. or access via this folder in the repository: [awesome-code-by-aly/NAGGui/x64/Release](https://github.com/alyssaperkins/awesome-code-by-aly/tree/c27d3f9e642aa237c00a7e776ec8158c664359a9/NAGGui/x64/Release) and run Name-A-Gator.exe
 
 ### Video Explanation of Name-A-Gator
 https://youtu.be/6jpk0YYYDkI 
