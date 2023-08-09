@@ -11,7 +11,7 @@ NAG uses a U.S. Census data set that contains name statistics from 1910-2021.  I
 To learn more about NAG, check out this PDF: [Name-A-Gator Documentation.pdf](https://github.com/alyssaperkins/awesome-code-by-aly/files/12303741/Name-A-Gator.Documentation.pdf)
 
 ## To run Name-A-Gator:
-1. Go to this link: https://drive.google.com/file/d/1emOXle0OTjGWKm53OAlUsKa-7W-jtMhy/view?usp=sharing and run Name-A-Gator.exe
+1. Go to this link and download the folder: https://drive.google.com/file/d/1emOXle0OTjGWKm53OAlUsKa-7W-jtMhy/view?usp=sharing and run Name-A-Gator.exe
 2. or download this folder in the repository: awesome-code-by-aly/NAGGui/x64/Release and run Name-A-Gator.exe
 
 ## Video Explanation of Name-A-Gator
