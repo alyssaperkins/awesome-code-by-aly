@@ -6,6 +6,8 @@ Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz
 
 What is Name-A-Gator (NAG)?  NAG is a GUI developed to help people learn how unique their names are.  It can be used to find the most common/unique name of a search, or compare the 'uniquity' of names you might have in mind for your future baby gators!
 
+ [ Uniquity % = # of occurences for searched name / # of occurences of all names under your search parameters ]
+
 NAG uses a U.S. Census data set that contains name statistics from 1910-2021.  It includes the number of people born with the same name each year for that state and gender.  Names can be ranked from Unique, Rare, Uncommon, Common, and Popular.  Along with each search you do, the user also gets to choose a sorting algorithm to order the returned data.  We included merge, quick, comb, and tim sorts.  The GUI will output the sorting time along with your uniquity rankings.
 
 To learn more about NAG, check out this PDF: [Name-A-Gator Documentation.pdf](https://github.com/alyssaperkins/awesome-code-by-aly/files/12303741/Name-A-Gator.Documentation.pdf)
