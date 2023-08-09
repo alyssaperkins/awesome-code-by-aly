@@ -1,5 +1,5 @@
 # awesome-code-by-aly
-Here you will find all labs, projects, and personal endeavors that I've created over the years.  Enjoy!
+Here you will find all labs, projects, and personal endeavors that I've created over the years (aka look at all my awesome code).
 
 # Name-A-Gator
 Created by Alyssa Perkins, Nikhil Anantha, and Jonah Diaz
@@ -24,5 +24,5 @@ https://youtu.be/6jpk0YYYDkI
 - NameData.txt -> U.S. Census Data Set that we use to rank names
 - Window.h / Window.cpp -> GUI Front End
 - MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI code (C++/CLI)
-- map.h/map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
+- map.h / map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
 
