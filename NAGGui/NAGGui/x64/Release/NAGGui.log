@@ -1,0 +1,28 @@
+﻿  Window.cpp
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(47,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(47,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(754,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(757,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(760,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(786,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  map.cpp
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(98,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(99,69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(100,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(101,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(252,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(256,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(200,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(542,71): message : see reference to function template instantiation 'std::pair<std::string,float>::pair<const char*,double,0>(std::pair<const char *,double> &&) noexcept(false)' being compiled
+C:\Users\Aly\source\repos\NAGGui\NAGGui\map.cpp(542,32): message : see reference to function template instantiation 'std::pair<std::string,float>::pair<const char*,double,0>(std::pair<const char *,double> &&) noexcept(false)' being compiled
+  Generating Code...
+  map.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NAGGui.vcxproj -> C:\Users\Aly\source\repos\NAGGui\x64\Release\NAGGui.exe

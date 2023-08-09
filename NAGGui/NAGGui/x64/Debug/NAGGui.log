@@ -1,0 +1,9 @@
+﻿  Window.cpp
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(47,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(47,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(762,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(765,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(768,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aly\source\repos\NAGGui\NAGGui\Window.h(794,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  map.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NAGGui.vcxproj -> C:\Users\Aly\source\repos\NAGGui\x64\Debug\NAGGui.exe
