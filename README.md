@@ -13,8 +13,8 @@ https://youtu.be/6jpk0YYYDkI
 
 ## To view the code of Name-A-Gator
 ### Follow this directory: NAGGui/NAGGui
-NameData.txt -> U.S. Census Data Set that we use to rank names
-Window.h / Window.cpp -> GUI Front End
-MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI interface code (C++/CLI)
-map.h/map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
+- NameData.txt -> U.S. Census Data Set that we use to rank names
+- Window.h / Window.cpp -> GUI Front End
+- MapWrapper.h -> Wrapper Class for inner code (C++) to communicate with GUI interface code (C++/CLI)
+- map.h/map.cpp -> Class to manage back end functionality, aka the core of Name-A-Gator
 
